@@ -10,6 +10,9 @@ import java.awt.event.MouseEvent;
  * @version 1.1.1
  */
 public class Draggable {
+    /*
+        Usage: new Draggable(component);
+    */
 
     private int x, y;
     
